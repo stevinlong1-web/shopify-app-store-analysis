@@ -1,1 +1,25 @@
 # shopify-app-store-analysis
+
+Analyst Memo — Shopify App Store Insights
+
+Dashboard: Shopify App Store Analysis
+
+Reporting Period: Latest available data
+
+Key Insight
+
+Reviews have increased year over year from 2018 - 2024
+Review ratings have constantly been above 4
+Developers have replied to 25% of the free plan reviews and to 24% of the paid plans
+Category list has grown from 4 to 14 over the duration of this report.
+Subscription have the lowest rating
+
+
+Business Impact
+Market place has stayed steady at an average of 4 rating through the 7 year report. Categories Subscriptions are bringing the rating down.
+
+
+
+Recommendation
+
+I recommend we find the root cause of the bottom 5 rated app categories and find solutions to improve their rating.
